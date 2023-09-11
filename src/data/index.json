@@ -1,0 +1,43 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "title": "Front-End",
+        "description": "Elevate user experiences through expert front-end development, combining design finesse with interactive functionality to bring websites and applications to life."
+      },
+      {
+        "id": "2",
+        "title": "Back-End",
+        "description": "Crafting powerful MERN full-stack applications with robust back-end development, utilizing MongoDB, Express.js, React, and Node.js to deliver seamless, efficient, and feature-packed solutions"
+      },
+      {
+        "id": "3",
+        "title": "UI & UX Design",
+        "description": "Transforming ideas into captivating experiences, our UI/UX design services combine creativity and user-centric design principles to craft visually appealing interfaces that ensure intuitive navigation  a delightful journey for your users."
+      }
+      
+    ],
+    
+    "porject": [
+      {
+        "id": "1",
+        "src": "html.png",
+        "title": "HTML,CSS",
+        "description": "Design a realistic Facebook login interface using HTML and CSS, focusing on visual accuracy and responsiveness for web development practicez"
+        
+      },
+      {
+        "id": "2",
+        "src": "script.png",
+        "title": "Jvascript",
+        "description": "Create a user-friendly calculator and a dynamic Todo list application with HTML, CSS, and JavaScript to enhance your frontend web development skills"
+      },
+      {
+        "id": "3",
+        "src": "REact.jpeg",
+        "title": "React.js",
+        "description": "Create a simple mini food website in React where you can display a list of food items with their names, images, and descriptions. Users can click on a food item to see more details, and you can also include a search feature to filter food items"
+        
+      }
+    ]
+  }
